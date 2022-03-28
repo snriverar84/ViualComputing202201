@@ -22,7 +22,7 @@ enableGitInfo = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://snriverar84.github.io/ViualComputing202201/'
+  BookRepo = 'https://github.com/snriverar84/ViualComputing202201'
 
   # Configure the date format used on the pages
   # - In git information
